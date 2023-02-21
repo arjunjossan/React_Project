@@ -1,0 +1,137 @@
+/* 
+.navbar-list{
+  background-color: black;
+  height: 60px;
+}
+.navbar-list a{
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 15px;
+  padding: 20px;
+  margin: 10px 10px 10px 10px;
+}
+.navbar-list input{
+  background-color: rgb(249, 244, 244);
+  color: rgb(15, 1, 1);
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 15px;
+  padding: 20px;
+  margin: 8px 10px 10px 100px;
+  width: 30%;
+  height: 20px;
+  border-radius: 20px;
+  border-color: red;
+}
+.navbar-list button{
+  background-color: rgb(249, 244, 244);
+  color: rgb(15, 1, 1);
+  text-decoration: none;
+  font-weight: bolder;
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 20px;
+  border-color: red;
+  margin: 10px 10px 10px 10px;
+}
+.sign-up{
+ float: right;
+ margin: 20px 10px 0px 10px;
+} */
+
+/* .left-bar{
+  width: 20%;
+  background-color: aqua;
+  height: 447px;
+  float: left; */
+  /* overflow:scroll; */
+  /* overflow-y: scroll; */
+/* }
+.left-bar-table{
+  width: 100%;
+  border-collapse: collapse;
+} */
+/* .left-bar-table button{
+  
+ padding: 10px;
+ margin: 5px 0px 5px 10px;
+ width: 50%;
+ border: none;
+ background-color:aqua;
+ font-weight: bolder;
+} */
+/* .left-bar-table a{
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 15px 0px 15px 20px;
+  width: 50%;
+  border: none;
+  background-color:aqua;
+  font-weight: bolder;
+  font-size: 13px;
+ } */
+
+/* .main-bar{
+  color: blue;
+  overflow-y: scroll;
+  scrollbar-color: red;
+  width: 80%;
+  height: 448px;
+  background-color: rgb(6, 2, 2);
+  background-image: url('https://pbs.twimg.com/media/DCxB3VNWsAI8VUc.jpg');
+background-position-x: center;
+  float: right;
+  background-repeat:no-repeat;
+  background-size: 500px;
+}
+.Main-Pic{
+  width: 100%;
+}  */
+
+
+/* .footer img{
+  height: 148.5px;
+  width: 100%;
+} */
+
+/* .typo{
+  margin-left: auto;
+  background-color: rgb(11, 11, 11);  was commented
+  background-image: url('https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1107711/retina_1708x683_cover-web-typography-infographic-6774fb8129a2f2f0383b039e7ba08e0b.png');
+  background-size: 1400px;
+  background-repeat: no-repeat;
+  padding: 40px 0px 0px 40px;
+  height: 402px;
+  border: solid red ;
+  color: white;
+}
+
+.input{
+  padding:10px;
+  width: 50%;
+  margin: 10px;
+}
+.input:hover{
+  padding:10px;
+  width: 50%;
+  margin: 10px;
+  background-color: rgb(190, 191, 192);
+}
+.btn{
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  background-color: rgb(75, 138, 233);
+  font-weight: bolder;
+  border-radius: 5px;
+}
+.btn:hover{
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  background-color: rgb(20, 105, 233);
+  font-weight: bolder;
+  border-radius: 5px;
+} */

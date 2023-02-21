@@ -1,0 +1,39 @@
+.typo{
+	margin-left: auto;
+	/* background-color: rgb(11, 11, 11); */
+	background-image: url('https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1107711/retina_1708x683_cover-web-typography-infographic-6774fb8129a2f2f0383b039e7ba08e0b.png');
+	background-size: 1400px;
+	background-repeat: no-repeat;
+	padding: 40px 0px 0px 40px;
+	height: 402px;
+	border: solid rgb(14, 240, 55) ;
+	color: white;
+  }
+  
+  .input{
+	padding:10px;
+	width: 50%;
+	margin: 10px;
+  }
+  .input:hover{
+	padding:10px;
+	width: 50%;
+	margin: 10px;
+	background-color: rgb(190, 191, 192);
+  }
+  .btn{
+	padding: 10px;
+	margin: 10px;
+	color: white;
+	background-color: rgb(75, 138, 233);
+	font-weight: bolder;
+	border-radius: 5px;
+  }
+  .btn:hover{
+	padding: 10px;
+	margin: 10px;
+	color: white;
+	background-color: rgb(20, 105, 233);
+	font-weight: bolder;
+	border-radius: 5px;
+  }

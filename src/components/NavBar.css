@@ -1,0 +1,42 @@
+
+.navbar-list{
+	background-color: black;
+	height: 60px;
+  }
+  .navbar-list a{
+	color: white;
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 15px;
+	padding: 20px;
+	margin: 10px 10px 10px 10px;
+  }
+  .navbar-list input{
+	background-color: rgb(249, 244, 244);
+	color: rgb(15, 1, 1);
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 15px;
+	padding: 20px;
+	margin: 8px 10px 10px 100px;
+	width: 30%;
+	height: 20px;
+	border-radius: 20px;
+	border-color: red;
+  }
+  .navbar-list button{
+	background-color: rgb(249, 244, 244);
+	color: rgb(15, 1, 1);
+	text-decoration: none;
+	font-weight: bolder;
+	font-size: 15px;
+	padding: 10px;
+	border-radius: 20px;
+	border-color: red;
+	margin: 10px 10px 10px 10px;
+  }
+  .sign-up{
+   float: right;
+   margin: 20px 10px 0px 10px;
+  }
+  

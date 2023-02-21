@@ -1,0 +1,5 @@
+.newsDetailcall{
+	height: 26%;
+	display: flex;
+	flex-direction: row;
+}

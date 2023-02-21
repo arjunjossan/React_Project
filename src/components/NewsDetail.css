@@ -1,0 +1,20 @@
+.newsDetailcall{
+	color: white;
+	background-color: rgb(83, 114, 40);
+}
+.newsDetailcall ul{
+	margin: 5px;
+	list-style-type: none;
+}
+.newsDetailcall ul li a{
+	text-decoration: none;
+	color: white;
+	background-color: rgb(85, 85, 214);
+	padding: 0px 15px 5px 15px;
+	border-radius: 5px;
+	/* margin: 5px; */
+}
+.news_image{
+	width: 35%;
+	border-radius: 5px;
+}

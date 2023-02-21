@@ -1,0 +1,16 @@
+.main-bar{
+	color: blue;
+	overflow-y: scroll;
+	scrollbar-color: red;
+	width: 80%;
+	height: 448px;
+	background-color: rgb(6, 2, 2);
+	background-image: url('https://pbs.twimg.com/media/DCxB3VNWsAI8VUc.jpg');
+  background-position-x: center;
+	float: right;
+	background-repeat:no-repeat;
+	background-size: 500px;
+  }
+  .Main-Pic{
+	width: 100%;
+  } 

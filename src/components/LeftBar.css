@@ -1,0 +1,35 @@
+.left-bar{
+	width: 20%;
+	background-color: rgb(58, 21, 67);
+	height: 447px;
+	float: left;
+	/* overflow:scroll; */
+	overflow-y: scroll;
+  }
+  .left-bar-table{
+	width: 100%;
+	border-collapse: collapse;
+  }
+  .left-bar-table button{
+	text-align: center;
+   padding: 10px;
+   margin: 5px 0px 5px 10px;
+   width: 50%;
+   border: none;
+   background-color:rgb(58, 21, 67);
+   font-weight: bolder;
+   color: white;
+  }
+  .left-bar-table a{
+	/* padding: 10px; */
+	color: rgb(255, 255, 255);
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 15px 0px 15px 20px;
+	width: 50%;
+	border: none;
+	background-color:none;
+	font-weight: bolder;
+	font-size: 13px;
+   }
