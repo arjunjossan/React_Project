@@ -50,6 +50,7 @@ function News() {
 	  <NewsDetail tit={news[3].title} desc={news[3].description} link={news[3].image} path='/News/news-4' />
 	  <NewsDetail tit={news[4].title} desc={news[4].description} link={news[4].image} path='/News/news-5' />
 	  <NewsDetail tit={news[5].title} desc={news[5].description} link={news[5].image} path='/News/news-6' />
+	  <NewsDetail tit={news[5].title} desc={news[5].description} link={news[5].image} path='/News/news-6' />
 	  
 
 	  </div>
